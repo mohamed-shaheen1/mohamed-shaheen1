@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mohamed Hazem 👋
 
-<!--
-**mohamed-shaheen1/mohamed-shaheen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student @ German International University  
+🔐 Passionate about InfoSec | Machine Learning | Backend Systems  
+🛠️ Currently working with Node.js, MongoDB, React, and Express  
+🌱 Learning Ethical Hacking & Cryptography  
+📫 Reach me: mohazem.2004@gmail.com | linked in: https://bit.ly/mohamedhazem
 
-Here are some ideas to get you started:
+## 🛡️ Penetration Testing Skills
+- Web App Pentesting (XSS, SQLi, CSRF,etc)
+- Network Scanning & Enumeration (Nmap, Netcat)
+- Vulnerability Assessment (Nessus)
+- Exploitation (Metasploit Framework)
+- Password Cracking (John the Ripper, Hydra)
+- BufferOverflow exploitation
+- Active Directory attack
+- Privliage Escalation
+## 🔧 Tech Stack
+- Languages: java,JavaScript, Python, C++
+- Web: HTML, CSS, React, Express.js, nest.js, node.js, next.js, ASP.NET 
+- DBs: MongoDB, MySQL
+- Tools: Git, Post, SSSIS, SSAS, Scikit-learn, panadas, Numpy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
+
+
