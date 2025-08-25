@@ -24,7 +24,7 @@
   # Projects
 - Student Management System: https://github.com/D-Ace0/E-Learning-Platform
 - Personal finance tracker: https://github.com/mohamed-shaheen1/personal-finance-tracker
-- 
+
   
 
 
