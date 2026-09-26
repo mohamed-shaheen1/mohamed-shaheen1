@@ -20,6 +20,17 @@ A bachelor-thesis research prototype for distributed IoT intrusion detection. It
 
 **Tech:** Python · NumPy · scikit-learn · Federated Learning · ZoKrates · HTML/CSS/JavaScript
 
+### [E-Learning Platform](https://github.com/D-Ace0/E-Learning-Platform)
+
+Team-built learning platform with adaptive modules and performance tracking. I contributed 17 commits across the project, including work on biometric authentication, course analytics, client-server communication, and supporting backend/frontend integration. Most of those contributions are incorporated into the main branch, with additional history on the `hazem` and feature branches.
+
+**Tech:** TypeScript · NestJS · React · MongoDB · Biometric authentication
+
+## Security reports
+
+- [Blue Team Reports](https://github.com/mohamed-shaheen1/blue-team-reports) — DFIR, malware analysis, phishing investigations, memory forensics, and SOC labs
+- [Red Team Reports](https://github.com/mohamed-shaheen1/red-team-reports) — authorized penetration-testing labs, vulnerability findings, and remediation guidance
+
 ## Skills
 
 | Area | Technologies |
